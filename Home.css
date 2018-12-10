@@ -1,0 +1,58 @@
+body{
+background-image:url(bon.jpg);
+background-size:cover;
+background-position:center;
+text-align:0 auto;
+}
+p{
+	text-align:center;
+	margin-top:200px;
+	font-family:Arial;
+	font-size:50px;
+	font-style:bold;
+	color:#F00;
+	text-transform:uppercase;
+}
+.btn{
+	font-weight:700px;
+	text-transform:uppercase;
+	border-radius:300px;
+	font-family:'Montserrat',sans-serif;
+	position:absolute;
+	font-weight:700px;
+	transition:.5s ease;
+	top:60%;
+	left:600px;
+	right:198px;
+
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+.btn-primary:hover{
+	transform:scale(1.1);
+}
+
+hr{
+	color:#00F;
+	max-width:50px;
+	border-width:3px;
+	border-color:#00F;
+	margin-top:105px;
+	top:60%;
+	left:600px;
+	right:198px;
+	
+}
+
+.clear{
+	text-align:center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    left:638px;
+	right:198px;
+}
